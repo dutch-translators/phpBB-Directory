@@ -1,0 +1,40 @@
+<?php
+/**
+*
+* directory [Dutch]
+*
+* @package language
+* @version $Id$
+* @copyright (c) 2011 http://www.phpbb-services.com
+* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+*
+*/
+
+/**
+* DO NOT CHANGE
+*/
+if (!defined('IN_PHPBB'))
+{
+	exit;
+}
+
+if (empty($lang) || !is_array($lang))
+{
+	$lang = array();
+}
+
+$lang = array_merge($lang, array(
+	'DIRECTORY'			=> 'Directory',
+
+	'NOTIFICATION_DIR_NEW'								=> '%1$s plaatste een nieuwe website "%2$s" in de categorie "%3$s".',
+	'NOTIFICATION_DIR_UCP'								=> 'PhpBB Directory Notificatie',
+	'NOTIFICATION_TYPE_DIR_UCP_ERROR_CHECK'				=> 'The backlink to this forum on one of my links is not found',
+	'NOTIFICATION_TYPE_DIR_UCP_IN_MODERATION_QUEUE'		=> 'Een nieuwe website heeft goedkeuring nodig',
+	'NOTIFICATION_TYPE_DIR_UCP_MODERATION_QUEUE'		=> 'Your website are approved or disapproved by a moderator',
+	'NOTIFICATION_TYPE_DIR_UCP_WEBSITE'					=> 'Iemand heeft een website toegevoegd aan de categorie waarop je bent geabonneerd',
+
+	'NOTIFICATION_DIR_WEBSITE_APPROVED'					=> 'Je website "%1$s" in de categorie "%2$s" is goedgekeurd.',
+	'NOTIFICATION_DIR_WEBSITE_DISAPPROVED'				=> 'Je website "%1$s" in de categorie "%2$s" is afgekeurd.',
+	'NOTIFICATION_DIR_WEBSITE_ERROR_CHECK'				=> 'The backlink back on "%1$s" in the categorie "%2$s" is not found',
+	'NOTIFICATION_DIR_WEBSITE_IN_QUEUE'					=> 'A new website named "%1$s" was posted by %2$s and needs approval.',
+));
