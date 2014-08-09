@@ -1,7 +1,7 @@
 phpBB-Directory
 ===============
 
-Dutch translation op the phpBB Directory extension by ErnadoO
+Dutch translation op the phpBB Directory extension by ErnadoO versie 1.0.0-dev
 
 Installatie
 ===============
