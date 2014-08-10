@@ -36,6 +36,6 @@ $lang = array_merge($lang, array(
 	'ACL_U_EDIT_DIR'			=> 'Kan eigen links wijzigen',
 	'ACL_U_EDIT_COMMENT_DIR'	=> 'Kan eigen reacties wijzigen',
 	'ACL_U_SEARCH_DIR'			=> 'Kan zoeken in de directory',
-	'ACL_U_SUBMIT_DIR'			=> 'Can submit a website in the directory',
-	'ACL_U_VOTE_DIR'			=> 'Can vote for a website of the directory',
+	'ACL_U_SUBMIT_DIR'			=> 'Kan een website opgeven in de directory',
+	'ACL_U_VOTE_DIR'			=> 'Kan stemmen op een website in de directory',
 ));
