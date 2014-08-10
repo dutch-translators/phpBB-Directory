@@ -1,8 +1,8 @@
-Subject: Problem with your website submission in the directory "{SITENAME}"
+Subject: Probleem met je ingediende website in de directory op "{SITENAME}"
 
 Hallo {USERNAME},
 
-The backlinks of the directory of "{SITENAME}" have just been checked and the obligatory link back couldn't be found on the page you have indicated while submitting your website. You have until the next checking, set the {NEXT_CRON} to fix this problem.
+De backlinks van de directory op "{SITENAME}" zijn zojuist gecontroleerd, de verplicht backlink die je moet opgeven tijdens het indienen van je website kan niet gevonden worden. Je hebt tot de volgende controle, gepland op {NEXT_CRON} om het probleem op te lossen.
 Anders wordt je website verwijderd uit de directory.
 Hier is een korte beschrijving van de website :
 Naam : {LINK_NAME}
