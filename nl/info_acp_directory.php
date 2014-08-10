@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * info_acp_directory [English]
+ * info_acp_directory [Dutch]
  *
  * @package language
  * @version $Id$
@@ -37,21 +37,21 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_DIRECTORY'							=> 'phpBB Directory',
-	'ACP_DIRECTORY_CATS'					=> 'Category settings',
+	'ACP_DIRECTORY_CATS'					=> 'Categorie-instellingen',
 	'ACP_DIRECTORY_INDEX_TITLE'				=> 'phpBB Directory',
-	'ACP_DIRECTORY_MAIN'					=> 'Informations and Tools',
-	'ACP_DIRECTORY_SETTINGS'				=> 'General settings',
-	'ACP_DIRECTORY_SETTINGS_EXPLAIN'		=> 'Directory settings',
-	'ACP_DIRECTORY_VAL'						=> 'Website authorisation',
-	'DIR_ACTIVE_CHECK'						=> 'Enable the submitted websites test',
-	'DIR_ACTIVE_CHECK_EXPLAIN'				=> 'By checking <i>yes</i>, the links will be tested when they are submitted. If there is no answer in a second, they will be considered as unreacheable.',
-	'DIR_ACTIVE_THUMB'						=> 'Enable websites thumbnails',
-	'DIR_ACTIVE_THUMB_REMOTE'				=> 'Enable the AscreeN compatibility',
-	'DIR_ACTIVE_THUMB_REMOTE_EXPLAIN'		=> 'By checking <i>yes</i>, during a website submission, the mod will check if an AscreeN thumbnails exists.<br />An AscreeN thumbnail is managed by the webmaster and normally it is more accurate to the website look.',
-	'DIR_ACTIV_BANNER'						=> 'Enable banner link',
-	'DIR_ACTIV_FLAG'						=> 'Enable language selection',
-	'DIR_ACTIV_PAGERANK'					=> 'Enable websites pagerank',
-	'DIR_ACTIV_PAGERANK_EXPLAIN'			=> 'The pagerank calculated during the website submission will be displayed.',
+	'ACP_DIRECTORY_MAIN'					=> 'Informatie en Gereedschap',
+	'ACP_DIRECTORY_SETTINGS'				=> 'Algemene instellingen',
+	'ACP_DIRECTORY_SETTINGS_EXPLAIN'		=> 'Directory instellingen',
+	'ACP_DIRECTORY_VAL'						=> 'Website autorisatie',
+	'DIR_ACTIVE_CHECK'						=> 'De verstuurde websites-test inschakelen',
+	'DIR_ACTIVE_CHECK_EXPLAIN'				=> 'Door dit in te stellen op <i>ja</i>, dan zullen de links getest worden wanneer ze verstuurd worden. Als er binnen één seconde geen antwoord komt, dan zullen ze beschouwd worden als niet bereikbaar.',
+	'DIR_ACTIVE_THUMB'						=> 'WEbsite miniaturen inschakelen',
+	'DIR_ACTIVE_THUMB_REMOTE'				=> 'De AscreeN compatibiliteit inschakelen',
+	'DIR_ACTIVE_THUMB_REMOTE_EXPLAIN'		=> 'Door dit in te stellen op <i>ja</i>, dan zal tijdens een website-opgave, de mod controleren of er een AscreeN miniatuur bestaat.<br />Een AscreeN miniatuur wordt beheerd door de webmaster en is normaal een meer accurate versie van het uiterlijk van de website.',
+	'DIR_ACTIV_BANNER'						=> 'Bannerlink inschakelen',
+	'DIR_ACTIV_FLAG'						=> 'Taalselectie inschakelen',
+	'DIR_ACTIV_PAGERANK'					=> 'Website-pagerank inschakelen',
+	'DIR_ACTIV_PAGERANK_EXPLAIN'			=> 'De pagerank berekent tijdens de website-opgave zal worden weergegeven.',
 	'DIR_ACTIV_REWRITE'						=> 'Enable the  directory url rewritting ',
 	'DIR_ACTIV_REWRITE_EXPLAIN'				=> 'If you enable this option, the urls of the directory categories as well as the navbar’s directory link will be rewritten according to the settings of the mod <a href="http://www.phpbb-seo.com/fr/mod-rewrite-phpbb/ultimate-seo-url-t4489.html" target="_blank">Ultimate SEO URL by dcz</a>.<br />An update of the file .htaccess will be required.',
 	'DIR_ACTIV_RSS'							=> 'Enable the specification of the RSS feed',
