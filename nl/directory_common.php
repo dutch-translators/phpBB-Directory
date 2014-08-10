@@ -28,7 +28,7 @@ $lang = array_merge($lang, array(
 
 	'NOTIFICATION_DIR_NEW'								=> '%1$s plaatste een nieuwe website "%2$s" in de categorie "%3$s".',
 	'NOTIFICATION_DIR_UCP'								=> 'PhpBB Directory Notificatie',
-	'NOTIFICATION_TYPE_DIR_UCP_ERROR_CHECK'				=> 'De terugkoppeling naar dit forum op één van mijn links is niet gevonden',
+	'NOTIFICATION_TYPE_DIR_UCP_ERROR_CHECK'				=> 'De terugkoppeling naar dit forum op Ã©Ã©n van mijn links is niet gevonden',
 	'NOTIFICATION_TYPE_DIR_UCP_IN_MODERATION_QUEUE'		=> 'Een nieuwe website heeft goedkeuring nodig',
 	'NOTIFICATION_TYPE_DIR_UCP_MODERATION_QUEUE'		=> 'Je website is goedgekeurd of afgekeurd door een moderator',
 	'NOTIFICATION_TYPE_DIR_UCP_WEBSITE'					=> 'Iemand heeft een website toegevoegd aan de categorie waarop je bent geabonneerd',
