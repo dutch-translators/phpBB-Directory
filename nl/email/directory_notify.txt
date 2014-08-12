@@ -2,7 +2,7 @@ Subject: Een nieuwe website in de directory "{SITENAME}"
 
 Hallo {USERNAME},
 
-Er is een nieuwe website toegevoegd in de directory van "{SITENAME}", in de categorie "{CAT_NAME}".
+Er is een nieuwe website toegevoegd aan de directory van "{SITENAME}", in de categorie "{CAT_NAME}".
 Hier is een korte beschrijving van de website :
 Naam : {LINK_NAME}
 Link : {LINK_URL}
