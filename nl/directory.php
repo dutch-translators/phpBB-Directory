@@ -173,7 +173,7 @@ $lang = array_merge($lang, array(
 	'DIR_VOTE_OK'							=> 'Je stem is toegevoegd',
 	'DIR_POST'								=> 'Bericht',
 
-	'DIRECTORY_TRANSLATION_INFO'			=> '',
+	'DIRECTORY_TRANSLATION_INFO'			=> 'Vertaald door <a href="https://github.com/dutch-translators">dutch-translators</a>',
 
 	'RECENT_LINKS'							=> 'Laatst toegevoegde website',
 
