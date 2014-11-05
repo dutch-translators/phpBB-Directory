@@ -7,6 +7,7 @@
  * @version $Id$
  * @copyright (c) 2011 http://www.phpbb-services.com
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+ * Dutch translation by Dutch Translators (https://github.com/dutch-translators)
  *
  */
 
