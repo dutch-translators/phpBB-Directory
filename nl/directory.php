@@ -112,7 +112,7 @@ $lang = array_merge($lang, array(
 													1 => '%d klik',
 													2 => '%d klikken',
 												),
-	'DIR_NB_CLICS_ORDER'					=> 'Klikken',
+	'DIR_NB_CLICKS_ORDER'					=> 'Klikken',
 	'DIR_NB_COMMS'							=> array(
 													1 => '%d reactie',
 													2 => '%d reacties',
