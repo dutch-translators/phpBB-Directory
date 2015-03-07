@@ -45,7 +45,6 @@ $lang = array_merge($lang, array(
 	'DIR_BANNER_IMAGE_FILETYPE_MISMATCH'	=> 'Verkeerde bannerbestandstype: verwachte extensie %1$s ingevoerde extensie %2$s.',
 	'DIR_BANNER_INVALID_FILENAME'			=> '%s is een ongeldige bestandsnaam.',
 	'DIR_BANNER_NOT_UPLOADED'				=> 'De banner kan niet worden overgedragen',
-	'DIR_BANNER_NO_SIZE'					=> 'Fout, tijdens het bepalen van de hoogte en de breedte van de avatar. Gelieve het handmatig in te voeren',
 	'DIR_BANNER_PARTIAL_UPLOAD'				=> 'Het bestand kan niet volledig worden overgedragen.',
 	'DIR_BANNER_PHP_SIZE_NA'				=> 'De bannergrootte is te groot.<br />De maximale grootte die is ingesteld in de php.ini kan niet worden vastgesteld.',
 	'DIR_BANNER_PHP_SIZE_OVERRUN'			=> 'De bannergrootte is te groot. De maximaal toegestane bestandsgrootte is %d Mo.<br />Houd er rekening mee dat dit is ingesteld in de php.ini en niet overtroffen kan worden.',
