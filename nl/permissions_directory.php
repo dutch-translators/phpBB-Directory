@@ -1,15 +1,13 @@
 <?php
 /**
- *
- * permissions_directory [Dutch]
- *
- * @package language
- * @version $Id$
- * @copyright (c) 2011 http://www.phpbb-services.com
- * @license http://opensource.org/licenses/gpl-license.php GNU Public License
- * Dutch translation by Dutch Translators (https://github.com/dutch-translators)
- *
- */
+*
+* phpBB Directory extension for the phpBB Forum Software package.
+*
+* @copyright (c) 2014 ErnadoO <http://www.phpbb-services.com>
+* @license GNU General Public License, version 2 (GPL-2.0)
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
+*
+*/
 
 /**
 * DO NOT CHANGE
