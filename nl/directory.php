@@ -1,12 +1,10 @@
 <?php
 /**
 *
-* directory [Dutch]
+* phpBB Directory extension for the phpBB Forum Software package.
 *
-* @package language
-* @version $Id$
-* @copyright (c) 2011 http://www.phpbb-services.com
-* @license http://opensource.org/licenses/gpl-license.php GNU Public License
+* @copyright (c) 2014 ErnadoO <http://www.phpbb-services.com>
+* @license GNU General Public License, version 2 (GPL-2.0)
 * Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 *
 */
@@ -62,7 +60,6 @@ $lang = array_merge($lang, array(
 	'DIR_CLICK_RETURN_DIR'					=> 'Klik %shier%s om terug te gaan naar de directory index',
 	'DIR_CLICK_RETURN_CAT'					=> 'Klik %shier%s om terug te gaan naar de categorie',
 	'DIR_CLICK_RETURN_COMMENT'				=> 'Klik %shier%s om terug te gaan naar de reactiepagina',
-	'DIR_CLICK_RETURN_LINK'					=> 'Klik %shier%s om terug te gaan naar de website',
 	'DIR_COMMENTS_ORDER'					=> 'Reacties',
 	'DIR_COMMENT_TITLE'						=> 'Lees/plaats een reactie',
 	'DIR_COMMENT_DELETE'					=> 'Verwijder de reactie',
@@ -139,15 +136,18 @@ $lang = array_merge($lang, array(
 	'DIR_REPLY_EXP'							=> 'Je reactie kan niet meer dan %d tekens lang zijn.',
 	'DIR_REPLY_TITLE'						=> 'Plaats een reactie',
 	'DIR_RSS'								=> 'RSS van',
-	'DIR_SEARCH_AND'						=> 'Zoek naar iedere term',
 	'DIR_SEARCH_CATLIST'					=> 'Zoek in een categorie',
 	'DIR_SEARCH_DESC_ONLY'					=> 'Alleen op beschrijving',
 	'DIR_SEARCH_METHOD'						=> 'Methode',
-	'DIR_SEARCH_NB_CLIC'					=> 'Klik',
-	'DIR_SEARCH_NB_CLICS'					=> 'Klikken',
-	'DIR_SEARCH_NB_COMM'					=> 'Reactie',
-	'DIR_SEARCH_NB_COMMS'					=> 'Reacties',
-	'DIR_SEARCH_OR'							=> 'Zoek naar minstens één van de woorden',
+	'DIR_SEARCH_NB_CLICKS'					=> array(
+													1 => 'Klik',
+													2 => 'Klikken',
+												),
+	'DIR_SEARCH_NB_COMMS'					=> array(
+													1 => 'Reactie',
+													2 => 'Reacties',
+												),
+	'DIR_SEARCH_NO_RESULT'					=> 'Geen resultaten voor de zoekopdracht',
 	'DIR_SEARCH_RESULT'						=> 'Zoekresultaten',
 	'DIR_SEARCH_SUBCATS'					=> 'Zoek in subcategorie',
 	'DIR_SEARCH_TITLE_DESC'					=> 'Naam en beschrijving',
