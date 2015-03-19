@@ -9,3 +9,5 @@ Installatie
 2. Upload de mappen language en styles naar de map: root/ext/ErnadoO/phpbbdirectory
 3. Leeg de cache
 
+Installatie is niet nodig omdat de vertaling is toegevoegd aan de extensie: https://github.com/ErnadoO/ext-phpbb-directory/tree/master/language/nl
+
